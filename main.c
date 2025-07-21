@@ -2,5 +2,5 @@
 
 int main(void) {
   /* Make this program showing a message "Hello World!"*/
-  printf("\n");
+  printf("Hello World!\n");
 }
